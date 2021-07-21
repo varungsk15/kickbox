@@ -1,0 +1,14 @@
+{
+  "name": "kickbox-test",
+  "version": "1.0.0",
+  "description": "simple email verify",
+  "main": "index.js",
+  "scripts": {
+    "test": "node kick.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kickbox": "^2.0.4"
+  }
+}
