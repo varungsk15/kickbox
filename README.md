@@ -1,5 +1,4 @@
 # kickbox
-node js email verification
 
 Clone the repo
 
