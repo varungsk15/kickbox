@@ -4,6 +4,7 @@ node js email verification
 Clone the repo
 
 cd kickbox
+
 npm test
 
 
